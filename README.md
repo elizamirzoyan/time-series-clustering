@@ -11,4 +11,5 @@ Perform clustering on the Trace dataset using K-means and Hierarchical Clusterin
 - [View full results and visualizations here](images/results.png).
 
 ## How to Run
- **Google Colab**: [Open Notebook](notebooks/clustering_analysis.ipynb).
+ **Google Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/yourrepo/blob/main/your_notebook.ipynb)
+
